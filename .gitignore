@@ -1,0 +1,6 @@
+.idea/
+unit*/.idea/
+unit*/cmake-build-debug/
+unit*/build/
+.vscode
+.DS_Store
