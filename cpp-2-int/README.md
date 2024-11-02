@@ -1,4 +1,4 @@
-# Ultimate C++ Course - 2 - Intermediate
+# C++ Combo Course 2 - Intermediate
 
 
 
