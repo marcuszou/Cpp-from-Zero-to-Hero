@@ -1,4 +1,4 @@
-# Ultimate C++ Course 1 - Fundamental
+# C++ Combo Course 1 - Fundamental
 
 ## Contents
 
