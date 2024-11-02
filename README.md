@@ -1,4 +1,4 @@
-# Ultimate C++ Courses 3In1
+# C++ Combo Course - from Zero to Hero
 
 1. [Fundamental](./cpp-1-fund/README.md)
 2. [Intermediate](./cpp-2-int/README.md)
